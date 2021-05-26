@@ -2,28 +2,20 @@
 
 ---
 
-### Category Name 1 
+### About Me
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- I am a Ph.D. student in the Computer Science Department at Auburn University, advised by [Prof. Shubhra Kanti Karmaker](https://karmake2.github.io/).
+<img src="images/aimooc.png?raw=true"/>
+-My research interests lie in the general area of machine learning, particularly in natural language processing, as it applies to helping make tools that can provide unique insights and new possibilities.
+-I received my Bachelor's and Master's Degree from Georgia Institute of Technology in Civil Engineering and Computer Science. 
 
 ---
 
-### Category Name 2
+### Reseach Interests
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- A2IMOOC
+- NLP
+- Machine Learning
 
 ---
 
