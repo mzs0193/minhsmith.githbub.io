@@ -14,7 +14,7 @@
 ### Research Projects
 <img src="images/A2I-MOOC.png?raw=true"/>
 - [A2I-MOOC](https://karmake2.github.io/posts/2020/03/A2I-MOOC/)
-
+- Privacy
 ---
 
 ### Reseach Interests
