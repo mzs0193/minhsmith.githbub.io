@@ -15,10 +15,10 @@
 
 ### Research Projects
 
-- [Project A2I-MOOC: Artificially Intelligent and Interactive MOOCs](https://karmake2.github.io/posts/2020/03/A2I-MOOC/)
+- [A2I-MOOC: Artificially Intelligent and Interactive MOOCs](https://karmake2.github.io/posts/2020/03/A2I-MOOC/)
 <img src="images/A2I-MOOC.png?raw=true"/>
 
-- Privacy
+- Privacy Information Embedding
 
 ---
 
