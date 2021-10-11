@@ -5,7 +5,7 @@
 
 ### About Me
 
-- I am a Ph.D. student in the Computer Science Department at Auburn University, advised by [Prof. Shubhra Kanti Karmaker](https://karmake2.github.io/).
+- I am currently a Ph.D. student in the Computer Science Department at Auburn University, advised by [Prof. Shubhra Kanti Karmaker](https://karmake2.github.io/).
 
 - My research interests lie in the general area of machine learning, particularly in natural language processing, as it applies to helping make tools that can provide unique insights and new possibilities.
 
