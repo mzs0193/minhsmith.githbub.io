@@ -1,8 +1,8 @@
 
 ## Portfolio
 
-***
----
+------
+
 ### About Me
 
 - I am a Ph.D. student in the Computer Science Department at Auburn University, advised by [Prof. Shubhra Kanti Karmaker](https://karmake2.github.io/).
@@ -15,6 +15,7 @@
 <img src="images/A2I-MOOC.png?raw=true"/>
 - [A2I-MOOC](https://karmake2.github.io/posts/2020/03/A2I-MOOC/)
 - Privacy
+- 
 ---
 
 ### Reseach Interests
