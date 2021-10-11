@@ -22,6 +22,15 @@
 
 ---
 
+### Research Projects
+
+- Teaching Assistant at Georgia Tech for Machine Learning for Robotics
+- Teaching Assisstant at Auburn University for Matlab
+- Project Engineer at Pure Technologies
+
+---
+
+
 ### Reseach Interests
 - Natural Language Processing
 <img src="images/ml.png?raw=true"/>
