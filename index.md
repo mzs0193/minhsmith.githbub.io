@@ -6,7 +6,9 @@
 ### About Me
 
 - I am a Ph.D. student in the Computer Science Department at Auburn University, advised by [Prof. Shubhra Kanti Karmaker](https://karmake2.github.io/).
+
 - My research interests lie in the general area of machine learning, particularly in natural language processing, as it applies to helping make tools that can provide unique insights and new possibilities.
+
 - I received my Bachelor's and Master's Degree from Georgia Institute of Technology in Civil Engineering and Computer Science. 
 
 ---
@@ -15,6 +17,7 @@
 
 - [Project A2I-MOOC: Artificially Intelligent and Interactive MOOCs](https://karmake2.github.io/posts/2020/03/A2I-MOOC/)
 <img src="images/A2I-MOOC.png?raw=true"/>
+
 - Privacy
 
 ---
@@ -22,6 +25,7 @@
 ### Reseach Interests
 - Natural Language Processing
 <img src="images/ml.png?raw=true"/>
+
 - Machine Learning
 <img src="images/portada.jpg?raw=true"/>
 
