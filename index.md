@@ -20,7 +20,7 @@
 
 ### Reseach Interests
 <img src="images/ml.png?raw=true"/>
-- NLP
+- Natural Language Processing
 - Machine Learning
 
 ---
