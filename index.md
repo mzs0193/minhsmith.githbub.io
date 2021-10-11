@@ -1,7 +1,7 @@
 
 ## Portfolio
 
----
+------
 ---
 ### About Me
 
@@ -10,21 +10,19 @@
 - I received my Bachelor's and Master's Degree from Georgia Institute of Technology in Civil Engineering and Computer Science. 
 
 ---
----
+
 ### Research Projects
 <img src="images/A2I-MOOC.png?raw=true"/>
 - [A2I-MOOC](https://karmake2.github.io/posts/2020/03/A2I-MOOC/)
 
 ---
----
+
 ### Reseach Interests
 <img src="images/ml.png?raw=true"/>
 - NLP
 - Machine Learning
 
 ---
----
-
 
 
 
