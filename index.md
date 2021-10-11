@@ -24,8 +24,8 @@
 
 ### Research Projects
 
-- Teaching Assistant at Georgia Tech for Machine Learning for Robotics
-- Teaching Assisstant at Auburn University for Matlab
+- Georgia Instistute of Technology Teaching Assistant for Machine Learning for Robotics
+- Auburn University Teaching Assisstant for Matlab
 - Project Engineer at Pure Technologies
 
 ---
