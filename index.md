@@ -21,7 +21,6 @@
 <img src="images/ml.png?raw=true"/>
 - NLP
 - Machine Learning
----
 
 ---
 ---
