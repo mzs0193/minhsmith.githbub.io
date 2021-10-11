@@ -12,17 +12,19 @@
 ---
 
 ### Research Projects
-<img src="images/A2I-MOOC.png?raw=true"/>
+
 - [A2I-MOOC](https://karmake2.github.io/posts/2020/03/A2I-MOOC/)
+- <img src="images/A2I-MOOC.png?raw=true"/>
 - Privacy
 
 ---
 
 ### Reseach Interests
-<img src="images/ml.png?raw=true"/>
 - Natural Language Processing
-<img src="images/portada.jpg?raw=true"/>
+<img src="images/ml.png?raw=true"/>
 - Machine Learning
+<img src="images/portada.jpg?raw=true"/>
+
 
 ---
 
