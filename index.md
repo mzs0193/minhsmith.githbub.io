@@ -22,11 +22,11 @@
 
 ---
 
-### Research Projects
+### Professional Experiences
 
-- Georgia Instistute of Technology Teaching Assistant for Machine Learning for Robotics
-- Auburn University Teaching Assisstant for Matlab
 - Project Engineer at Pure Technologies
+- Georgia Instistute of Technology Teaching Assistant for Machine Learning for Robotics
+- Auburn University Teaching Assistant for Matlab
 
 ---
 
