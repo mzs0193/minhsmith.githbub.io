@@ -25,7 +25,7 @@
 ### Professional Experiences
 
 - Project Engineer at Pure Technologies
-<img src="images/logo.png?raw=true"/>
+<img src="images/me.png?raw=true"/>
 
 - Georgia Instistute of Technology Teaching Assistant for Artificial Intelligence for Robotics
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SkI_QrWo_8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
