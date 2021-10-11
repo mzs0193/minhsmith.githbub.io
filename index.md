@@ -11,9 +11,12 @@
 
 ---
 
+### Research Projects
+
+https://karmake2.github.io/posts/2020/03/A2I-MOOC/
+
 ### Reseach Interests
 <img src="images/aimooc.png?raw=true"/>
-- A2IMOOC
 - NLP
 - Machine Learning
 
