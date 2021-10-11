@@ -19,10 +19,9 @@
 ---
 
 ### Reseach Interests
-<img src="images/NLP-image.png?raw=true"/>
-<img src="images/artigo-nlp-27.jpg?raw=true"/>
-- Natural Language Processing
 <img src="images/ml.png?raw=true"/>
+- Natural Language Processing
+<img src="images/portada.jpg?raw=true"/>
 - Machine Learning
 
 ---
