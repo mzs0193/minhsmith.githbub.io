@@ -26,9 +26,11 @@
 
 - Project Engineer at Pure Technologies
 <img src="images/logo.png?raw=true"/>
+
 - Georgia Instistute of Technology Teaching Assistant for Artificial Intelligence for Robotics
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 - Auburn University Teaching Assistant for Matlab
+<img src="images/matlab_shortcuts_logo_resize_md.jpg?raw=true"/>
 
 ---
 
