@@ -18,7 +18,7 @@
 - [A2I-MOOC: Artificially Intelligent and Interactive MOOCs](https://karmake2.github.io/posts/2020/03/A2I-MOOC/)
 <img src="images/A2I-MOOC.png?raw=true"/>
 
-- Privacy Information Embedding (Upcoming)
+- Privacy Microscope (Upcoming)
 
 ---
 
